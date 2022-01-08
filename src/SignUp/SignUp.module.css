@@ -1,0 +1,22 @@
+.btns {
+  text-align: center;
+}
+
+  .container__form {
+    font-size: 1.5rem;
+    color: ghostwhite;
+    float: left;
+  }
+
+  label {
+    margin: 20px;
+  }
+
+  .field {
+    clear:both; 
+    text-align:right;
+  }
+
+  .label_field {
+    float: right;
+  }
