@@ -16,7 +16,7 @@ function LogIn() {
       "password": pass
     }
 
-    let url = "https://typ-back-end.herokuapp.com/api/login";  
+    let url = "https://typ-back-end.herokuapp.com/api/login"; 
     fetch(url, {
       method: "POST",
       headers: {
